@@ -799,3 +799,99 @@ blockquote {
 #form1-7 .form-control-label {
   color: undefined;
 }
+#menu-8 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-8 .navbar-caption {
+  color: #ffffff;
+}
+#menu-8 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-8 .close-icon::before,
+#menu-8 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-8 .link,
+#menu-8 .dropdown-item {
+  color: #ffffff;
+}
+#menu-8 .link {
+  font-size: 0.875rem;
+}
+#menu-8 .dropdown-item,
+#menu-8 .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-8 .link:hover,
+#menu-8 .link:focus {
+  color: #f39c12;
+}
+#menu-8 .dropdown-item:hover::before,
+#menu-8 .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-8 .dropdown-item:hover,
+#menu-8 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-8 .link[aria-expanded="true"],
+#menu-8 .dropdown-menu {
+  background: #1a242f;
+}
+#menu-8 .nav-dropdown-sm .link:focus,
+#menu-8 .nav-dropdown-sm .link:hover,
+#menu-8 .nav-dropdown-sm .dropdown-item:focus,
+#menu-8 .nav-dropdown-sm .dropdown-item:hover {
+  background: #273646!important;
+}
+#menu-8 .navbar,
+#menu-8 .nav-dropdown-sm,
+#menu-8 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-8 .nav-dropdown-sm .dropdown-menu {
+  background: #2c3e50;
+}
+#menu-8 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-8 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-8 .bg-color.transparent.opened .link:hover,
+#menu-8 .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-8 .link[aria-expanded="true"],
+#menu-8 .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#header2-a .mbr-section-title,
+#header2-a .mbr-section-subtitle,
+#header2-a .btn {
+  color: #fff;
+}
+#header2-a .mbr-section-title {
+  font-weight: 700;
+}
+#content3-b .mbr-section-title,
+#content3-b .mbr-section-subtitle {
+  text-align: center;
+}
+#features1-c .mbr-section-title {
+  font-weight: 700;
+}
+#features1-c .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#form1-d .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-d .form-control-label {
+  color: undefined;
+}
+#footer2-e .mbr-section-text {
+  color: #fff;
+}
